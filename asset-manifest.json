@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Techfolio/static/css/main.1c523523.css",
+    "main.js": "/Techfolio/static/js/main.bcfb9e1d.js",
+    "static/media/food.jpg": "/Techfolio/static/media/food.70d7d9c3430d371dd2b7.jpg",
+    "static/media/2nd.jpg": "/Techfolio/static/media/2nd.d43a6a0f1f906db2f08e.jpg",
+    "static/media/brain.jpg": "/Techfolio/static/media/brain.2c0b0f6c6836df8bb15e.jpg",
+    "static/media/emp.jpg": "/Techfolio/static/media/emp.ec3abbf6da0edfd00a0e.jpg",
+    "static/media/Sql.png": "/Techfolio/static/media/Sql.85fb38d6773862e917f4.png",
+    "static/media/boot.png": "/Techfolio/static/media/boot.cb0fcc269e8250f3551b.png",
+    "static/media/react.png": "/Techfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/python.png": "/Techfolio/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/Java.png": "/Techfolio/static/media/Java.a9e7034064e9df0061d3.png",
+    "static/media/github.png": "/Techfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Techfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Techfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/logo.png": "/Techfolio/static/media/logo.ffa3e0dd754dc923e50b.png",
+    "static/media/css.png": "/Techfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Techfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Techfolio/index.html",
+    "main.1c523523.css.map": "/Techfolio/static/css/main.1c523523.css.map",
+    "main.bcfb9e1d.js.map": "/Techfolio/static/js/main.bcfb9e1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c523523.css",
+    "static/js/main.bcfb9e1d.js"
+  ]
+}
